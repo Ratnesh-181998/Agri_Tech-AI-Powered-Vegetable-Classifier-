@@ -10,6 +10,17 @@ Ninjacart sources fresh produce from farmers and delivers them to businesses wit
 - Distinguish between images of different types of vegetables
 - Correctly label images that do not contain any one type of vegetable as noise
 
+  <img width="838" height="1240" alt="image" src="https://github.com/user-attachments/assets/75125a96-a062-420f-8b2c-72d3c6c6906a" />
+
+  <img width="1276" height="1307" alt="image" src="https://github.com/user-attachments/assets/b2c40c2c-da12-4928-9c44-452ada8eead7" />
+
+  <img width="695" height="1275" alt="image" src="https://github.com/user-attachments/assets/4f1614b4-5964-4d6c-814d-61392599b268" />
+  <img width="675" height="1273" alt="image" src="https://github.com/user-attachments/assets/9c4e0498-9b78-45df-a304-33e09aac9e93" />
+ <img width="693" height="1275" alt="image" src="https://github.com/user-attachments/assets/497eb882-8dbc-4ef5-8802-40ad7ecd7443" />
+<img width="678" height="1277" alt="image" src="https://github.com/user-attachments/assets/3a8b9b81-9f2e-4b99-a844-247a76b42e99" />
+<img width="1347" height="1503" alt="image" src="https://github.com/user-attachments/assets/04afcf8e-7c4d-49c6-aa1e-95ca9774fb0a" />
+
+
 ## 📊 Dataset Information
 
 ### Dataset Link
@@ -73,30 +84,7 @@ The project implements multiple approaches:
   - ModelCheckpoint
   - TensorBoard
 
-## 📈 Evaluation Criteria (100 Points)
-
-### 1. Data Exploration (10 points)
-- Importing dataset
-- Checking structure & characteristics
-- Exploratory analysis
-
-### 2. Exploratory Data Analysis (20 points)
-- Class distribution plotting (10 points)
-- Visualizing image dimensions (10 points)
-
-### 3. Data Preparation (10 points)
-- Train/Validation/Test split
-
-### 4. Model Training (50 points)
-- CNN Classifier from scratch (10 points)
-- Improving baseline CNN (10 points)
-- Implementing callbacks (10 points)
-- Fine-tuning pretrained models (10 points)
-- Training metrics and confusion matrix (10 points)
-
-### 5. Model Testing (20 points)
-- Testing on test set (10 points)
-- Summary & insights (10 points)
+<img width="2873" height="1697" alt="image" src="https://github.com/user-attachments/assets/4ac5518b-e6df-4605-b918-969475e9155b" />
 
 ## 🚀 Getting Started
 
