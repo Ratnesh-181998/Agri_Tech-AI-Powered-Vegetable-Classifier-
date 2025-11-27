@@ -221,8 +221,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 
 For any queries or suggestions, please reach out through:
-- GitHub Issues
-- Email: [Your Email]
+- GitHub Issues - https://github.com/Ratnesh-181998
+- Linkedin- https://www.linkedin.com/in/ratneshkumar1998/
+- Email:rattudacsit2021gate@gmail.com
 
 ---
 
